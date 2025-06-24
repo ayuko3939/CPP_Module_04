@@ -26,7 +26,7 @@
 
 **実行**:
 ```bash
-./animal
+./Animal
 ```
 
 ### Exercise 01: I don't want to set the world on fire
@@ -40,7 +40,7 @@
 
 **実行**:
 ```bash
-./brain
+./AnimalBrain
 ```
 
 ### Exercise 02: Abstract class
@@ -54,7 +54,7 @@
 
 **実行**:
 ```bash
-./abstract
+./AAnimalBrain
 ```
 
 ## コンパイル要件
